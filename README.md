@@ -13,8 +13,8 @@ Sorry
 Synopsis
 --------
 
-This extension enables eZ Publish URL to be transliterated from Chinese to non UTF-8
-characters.
+This extension enables eZ Publish (http://ez.no/ezpublish) URLs to be
+transliterated from Chinese to non UTF-8 characters.
 
 Requirements
 ------------
