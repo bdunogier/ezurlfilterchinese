@@ -16,6 +16,13 @@ Synopsis
 This extension enables eZ Publish (http://ez.no/ezpublish) URLs to be
 transliterated from Chinese to non UTF-8 characters.
 
+Contact
+-------
+
+Bertrand Dunogier (http://github.com/bdunogier)
+
+Project page: http://projects.ez.no/ezurlfilterchinese
+
 Requirements
 ------------
 
@@ -28,8 +35,3 @@ Installation
 
 Uncompress the archive in your eZ Publish extension/ folder. Enable the extension
 as usual.
-
-Contact
--------
-
-Bertrand Dunogier (http://github.com/bdunogier)
