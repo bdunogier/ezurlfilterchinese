@@ -20,6 +20,7 @@ Contact
 -------
 
 Bertrand Dunogier (http://github.com/bdunogier)
+
 Chen Xiongjie (http://github.com/xc)
 
 Project page: http://projects.ez.no/ezurlfilterchinese
