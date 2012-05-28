@@ -23,7 +23,10 @@ Bertrand Dunogier (http://github.com/bdunogier)
 
 Chen Xiongjie (http://github.com/xc)
 
-Project page: http://projects.ez.no/ezurlfilterchinese
+Project page
+-------
+http://projects.ez.no/ezurlfilterchinese
+
 Note: cnurl(http://projects.ez.no/cnurl) is merged to this one(ezurlfilterchinese):)
 
 Requirements
