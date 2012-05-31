@@ -435,15 +435,11 @@ class Pinyin
         $ret = "";
         for ($i = 0; $i < strlen($str); $i++) {
             $p = ord(substr($str, $i, 1));
-            var_dump( 'p: ' . $p );
             if ($p > 160) {
                 $q = ord(substr($str, ++$i, 1));
                 $p = $p * 256 + $q - 65536;
             }
-            var_dump( 'after p:' . $p );
-            var_dump( $p );
             $ret .= $this->g($p);
-            var_dump( $ret );
         }
         //$ret=ucfirst($ret);
         return $ret;
