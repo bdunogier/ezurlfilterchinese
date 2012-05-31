@@ -21,7 +21,13 @@ Contact
 
 Bertrand Dunogier (http://github.com/bdunogier)
 
-Project page: http://projects.ez.no/ezurlfilterchinese
+Chen Xiongjie (http://github.com/xc)
+
+Project page
+-------
+http://projects.ez.no/ezurlfilterchinese
+
+Note: cnurl(http://projects.ez.no/cnurl) is merged to this one(ezurlfilterchinese):)
 
 Requirements
 ------------
