@@ -1,8 +1,9 @@
 <?php /* #?ini charset="utf-8"?
 
 [URLTranslator]
-Extensions[]=urlfilter
+FilterClasses[]=eZURLFilterChineseTransliteration
 
-Filters[]=eZURLFilterChineseTransliteration
+[ChineseURLAlias]
+Capitalize = true
 
 */ ?>
